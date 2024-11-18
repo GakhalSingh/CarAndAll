@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
-[Route("/home")]
-public class HomeController : ControllerBase
+[Route("/shop")]
+public class ShopController : ControllerBase
 {
     [HttpGet]
     public ContentResult Get()
@@ -17,8 +17,7 @@ public class HomeController : ControllerBase
             <body>
                 <div id='navbar'></div>
                 <div class='container'>
-                    <h1>Welkom!</h1>
-                    <p>gwnognio4weg</p>
+                    // hier komt dus je html brian
                 </div>
                 <script>
                     fetch('/navbar.html')
