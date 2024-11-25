@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\footer.html",
+      "PackagePath": "staticwebassets\\footer.html"
+    },
+    {
+      "Id": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\img\\Dunlop__Finpins_Joos.png",
+      "PackagePath": "staticwebassets\\img\\Dunlop__Finpins_Joos.png"
+    },
+    {
       "Id": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

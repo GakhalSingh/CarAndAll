@@ -19,15 +19,15 @@ public class ShopController : ControllerBase
                 <div class='container'>
                     // hier komt dus je html brian
                 </div>
-                <script>
-                    fetch('/navbar.html')
-                        .then(response => response.text())
-                        .then(html => {
-                            document.getElementById('navbar').innerHTML = html;
-                        });
+            </body>
+            <script>
+                fetch('/navbar.html')
+                    .then(response => response.text())
+                    .then(html => {
+                        document.getElementById('navbar').innerHTML = html;
+                    });
                 </script>
                 <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js'></script>
-            </body>
             </html>
         ", "text/html");
     }

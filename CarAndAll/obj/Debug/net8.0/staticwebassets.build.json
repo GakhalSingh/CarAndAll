@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xqVzPgomrTqK6Dx4Oh+B5pawRdB6ExdWlW1GqyjyeFM=",
+  "Hash": "AuB/Nt3Eqa3FtF9fZTW5DoFi6nyjGr4NdnDKK3HmJ7A=",
   "Source": "CarAndAll",
   "BasePath": "_content/CarAndAll",
   "Mode": "Default",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\footer.html",
+      "SourceId": "CarAndAll",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\",
+      "BasePath": "_content/CarAndAll",
+      "RelativePath": "footer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\footer.html"
+    },
+    {
+      "Identity": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\img\\Dunlop__Finpins_Joos.png",
+      "SourceId": "CarAndAll",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\",
+      "BasePath": "_content/CarAndAll",
+      "RelativePath": "img/Dunlop__Finpins_Joos.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Dunlop__Finpins_Joos.png"
+    },
     {
       "Identity": "C:\\Users\\TheCr\\Documents\\GitHub\\CarAndAll\\CarAndAll\\wwwroot\\index.html",
       "SourceId": "CarAndAll",

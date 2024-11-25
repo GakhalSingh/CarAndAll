@@ -18,7 +18,8 @@ public class HomeController : ControllerBase
                 <div id='navbar'></div>
                 <div class='container'>
                     <h1>Welkom!</h1>
-                    <p>gwnognio4weg</p>
+                    <img src='/img/Dunlop__Finpins_Joos.png' alt='logo' class='img-fluid'>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
                 <script>
                     fetch('/navbar.html')
